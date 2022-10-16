@@ -4,4 +4,10 @@ A Pen created on CodePen.io. Original URL: [https://codepen.io/sin-chun-hung/pen
 
 This is a Tribute Page about Joseph-Louis Lagrange, a great mathematician and physicist.
 
-This page is created by SIN Chun Hung SIMON, a mathematician from The Hong Kong University of Science and Technology (HKUST).
+This page owner information.
+
+SIN,Chun Hung SIMON.
+
+HKUST graduate.
+
+Mathematician. Developer.
