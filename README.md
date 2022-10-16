@@ -12,4 +12,3 @@ HKUST graduate.
 
 Mathematician. Developer.
 
---
