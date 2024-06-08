@@ -12,4 +12,4 @@ HKUST Graduate.
 
 Major in Mathematics.
 
-A Lifelong Learner
+A Lifelong Learner.
